@@ -1,0 +1,3 @@
+## README for Customer segmentation project
+
+- to be completed...
